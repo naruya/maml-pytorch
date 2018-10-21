@@ -1,4 +1,6 @@
 omniglot/
+omniglot_mini/
+temp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
