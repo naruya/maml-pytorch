@@ -1,7 +1,9 @@
 omniglot/
 omniglot_mini/
 temp/
+mnist/
 
+!.gitkeep
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
