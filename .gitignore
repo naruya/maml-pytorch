@@ -5,6 +5,9 @@ mnist/
 
 !.gitkeep
 !data/.gitkeep
+!data/omniglot/.gitkeep
+!data/mnist/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
