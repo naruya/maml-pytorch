@@ -2,6 +2,7 @@ omniglot/
 omniglot_mini/
 temp/
 mnist/
+model/
 
 !.gitkeep
 !data/.gitkeep
