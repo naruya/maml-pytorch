@@ -3,7 +3,7 @@ omniglot_mini/
 temp/
 mnist/
 model/
-
+_model/
 !.gitkeep
 !data/.gitkeep
 !data/omniglot/.gitkeep
