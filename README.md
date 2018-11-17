@@ -12,3 +12,8 @@
 - PyTorch 0.4.1
 
 tested on Ubuntu 18.04
+
+## Result
+
+10-way 1-shot training, best performance 85.8%
+![learning curves](notebooks/plot_hist.png)
